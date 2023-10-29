@@ -1,0 +1,9 @@
+Hi, I’m @AiAnnet
+- 👀 I’m interested in Ai community in Canada and USA, because I live in Montreal/Toronto. I am planning to attend AI conferences in the USA. I am looking for like-minded people who are interested in AI and want to share information with newcomers. I have only recently started using AI tools:  write content for social media, analyze information, summarize it, write prompts, explore the capabilities of AI, and gradually master AI tools (but it seems life is not enough if doing this alone)- 
+-🌱 I’m currently learning Ai,  How to write prompts, how the Chat JPT4 works. My goal is to finish writing a book, master the skill of generating creatives for different niches, learn to quickly create websites using AI, analyze the target audience using Facebook (I still have no idea how to do this), design books, banners, covers, and simply take good photos, as well as create animations, and automate the existing business.
+- 💞️ I’m looking To collaborate with those who have some work (to reinforce and develop existing skills), or the opportunity for rapid mastery of any tool, and I can do some work for you to solidify the skill. I would also like to collaborate with those who are better, smarter, and faster than me. I will strive to reach your level and set the mood. I don't know about you, but I feel that humor is important in situations where you're focused for 15-17 hours a day
+- - 📫 How to reach me. I don't know what people usually write here. My Instagram is @aiannet_ and my email is event.ilion@gmail.com. Or tell me how to find you on Telegram, because I'm there but no one seems to be able to find me."
+<!---
+AiAnnet/AiAnnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
